@@ -1,0 +1,40 @@
+
+  <nav class="navbar navbar-expand-lg navbar-dark">
+    <div class="container-fluid">
+      <a class="navbar-brand" routerLink="/home">
+        <img src='../../assets/niq logo.png' alt="NIQ logo" width="30" height="30"/>
+        <!-- <img src={{niq_logo}} alt="NIQ logo" width="30" height="30"/> -->
+        NielsenIQ Discover
+    </a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+      <div class="collapse navbar-collapse" id="navbarText">
+        <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+          <li class="nav-item">
+            <a routerLink="/home" routerLinkActive="active"  class="nav-link" >Monitor My Business</a>
+          </li>
+          <li class="nav-item">
+            <a routerLink="/templ" routerLinkActive="active" class="nav-link">Choose a template</a>
+          </li>
+          <li class="nav-item">
+            <a routerLink="/table" routerLinkActive="active" class="nav-link">Build a table</a>
+          </li>
+          <li class="nav-item">
+            <a routerLink="/stuff" routerLinkActive="active" class="nav-link">Find My Stuff</a>
+          </li>
+        </ul>
+        <div class="icons">
+          <span class="navbar-text">
+            <i class="bi bi-bell-fill fa-4x"></i>
+          </span>
+          <span class="navbar-text">
+            <i class="bi bi-person"></i>
+          </span>
+          <span class="navbar-text">
+              <i class="bi bi-question-circle-fill"></i>
+          </span>
+        </div>
+      </div>
+    </div>
+  </nav>

@@ -1,0 +1,27 @@
+nav {
+    background-color: #000;
+
+    border: 10px red;
+
+}
+.icons {
+    display: flex;
+    width: 8em;
+    justify-content: space-between;
+    align-items: center;
+    margin-right: 1em;
+    cursor: pointer;
+    
+}
+i {
+    font-size: 1.5em;
+}
+
+.active {
+    /* border: 10px; */
+    /* border-width: 2px; */
+    border-bottom: 5px;
+    border-bottom-style: solid;
+    border-bottom-color: rgb(19, 236, 63);
+    
+}

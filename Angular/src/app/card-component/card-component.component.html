@@ -1,0 +1,29 @@
+<div class="cardContainer">
+
+<div class="card px-2 hidden ps-3">
+  <div class="card-body" style="position: relative;">
+    <span class="dot">
+      <i class="bi bi-dot"></i>
+    </span>
+    <h5 class="card-title">
+      {{dataType}} {{buyingType || manufacturerName}}
+    </h5>
+    <p class="card-text my-1">{{companyName}}</p>
+    <samp class="fs-5" *ngIf="incomeNum !== 999999; else zeroValueBlock">
+      
+      $ {{incomeNum}}M
+    </samp>
+    <ng-template #zeroValueBlock>
+      <samp class="fs-5">
+        $ 0 M
+      </samp>
+    </ng-template>
+    <p class="lead">
+      <strong>{{companyName}}</strong> with the <strong>Income $10000+</strong>
+    </p>
+    <p class="lead desc">
+      demographic indexes the {{dataType}} in the current period
+  </p>
+  </div>
+</div>
+</div>

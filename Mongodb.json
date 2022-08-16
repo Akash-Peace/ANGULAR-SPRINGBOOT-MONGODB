@@ -1,0 +1,937 @@
+[{
+  "_id": {
+    "$oid": "62f201cfc9b7ca89ae8a71e8"
+  },
+  "company": "Wipro",
+  "MH": 7343,
+  "DL": 4534,
+  "RJ": 4434,
+  "income": 26631,
+  "date": "2009",
+  "buyingType": "Buying Households",
+  "incomeType": "Household Income",
+  "manufacturers": "2 PG manufacturer"
+},{
+  "_id": {
+    "$oid": "62f201cfc9b7ca89ae8a71e9"
+  },
+  "company": "TCS",
+  "MH": 3543,
+  "DL": 1424,
+  "RJ": 6321,
+  "income": 12448,
+  "date": "2010",
+  "buyingType": "Buying Households",
+  "incomeType": "Household Income",
+  "manufacturers": "2 PG manufacturer"
+},{
+  "_id": {
+    "$oid": "62f201cfc9b7ca89ae8a71ea"
+  },
+  "company": "Accenture",
+  "MH": 1243,
+  "DL": 4874,
+  "RJ": 2534,
+  "income": 127908,
+  "date": "2011",
+  "buyingType": "Buying Households",
+  "incomeType": "Household Income",
+  "manufacturers": "2 PG manufacturer"
+},{
+  "_id": {
+    "$oid": "62f201cfc9b7ca89ae8a71eb"
+  },
+  "company": "Infosys",
+  "MH": 2343,
+  "DL": 1534,
+  "RJ": 9834,
+  "income": 332,
+  "date": "2012",
+  "buyingType": "Buying Households",
+  "incomeType": "Household Income",
+  "manufacturers": "2 PG manufacturer"
+},{
+  "_id": {
+    "$oid": "62f201cfc9b7ca89ae8a71ec"
+  },
+  "company": "Tata",
+  "MH": 3540,
+  "DL": 3324,
+  "RJ": 8321,
+  "income": 1235,
+  "date": "2013",
+  "buyingType": "Buying Households",
+  "incomeType": "Household Income",
+  "manufacturers": "2 PG manufacturer"
+},{
+  "_id": {
+    "$oid": "62f201cfc9b7ca89ae8a71ed"
+  },
+  "company": "Cadbury",
+  "MH": 3214,
+  "DL": 6221,
+  "RJ": 1987,
+  "income": 21442,
+  "date": "2014",
+  "buyingType": "Buying Households",
+  "incomeType": "Household Income",
+  "manufacturers": "2 PG manufacturer"
+},{
+  "_id": {
+    "$oid": "62f201cfc9b7ca89ae8a71ee"
+  },
+  "company": "Nestle",
+  "MH": 8079,
+  "DL": 3644,
+  "RJ": 7145,
+  "income": 908975,
+  "date": "2015",
+  "buyingType": "Buying Households",
+  "incomeType": "Household Income",
+  "manufacturers": "2 PG manufacturer"
+},{
+  "_id": {
+    "$oid": "62f201cfc9b7ca89ae8a71ef"
+  },
+  "company": "Nutrella",
+  "MH": 1813,
+  "DL": 2960,
+  "RJ": 4530,
+  "income": 241322,
+  "date": "2016",
+  "buyingType": "Buying Households",
+  "incomeType": "Household Income",
+  "manufacturers": "2 PG manufacturer"
+},{
+  "_id": {
+    "$oid": "62f201cfc9b7ca89ae8a71f0"
+  },
+  "company": "Wipro",
+  "MH": 1343,
+  "DL": 8670,
+  "RJ": 8402,
+  "income": 25031,
+  "date": "2009",
+  "buyingType": "Buying Households",
+  "incomeType": "Household Income",
+  "manufacturers": "4 PG manufacturer"
+},{
+  "_id": {
+    "$oid": "62f201cfc9b7ca89ae8a71f1"
+  },
+  "company": "TCS",
+  "MH": 2343,
+  "DL": 7670,
+  "RJ": 7402,
+  "income": 22448,
+  "date": "2010",
+  "buyingType": "Buying Households",
+  "incomeType": "Household Income",
+  "manufacturers": "4 PG manufacturer"
+},{
+  "_id": {
+    "$oid": "62f201cfc9b7ca89ae8a71f2"
+  },
+  "company": "Accenture",
+  "MH": 3343,
+  "DL": 6670,
+  "RJ": 6402,
+  "income": 10008,
+  "date": "2011",
+  "buyingType": "Buying Households",
+  "incomeType": "Household Income",
+  "manufacturers": "4 PG manufacturer"
+},{
+  "_id": {
+    "$oid": "62f201cfc9b7ca89ae8a71f3"
+  },
+  "company": "Infosys",
+  "MH": 3343,
+  "DL": 5670,
+  "RJ": 5402,
+  "income": 56270,
+  "date": "2012",
+  "buyingType": "Buying Households",
+  "incomeType": "Household Income",
+  "manufacturers": "4 PG manufacturer"
+},{
+  "_id": {
+    "$oid": "62f201cfc9b7ca89ae8a71f4"
+  },
+  "company": "Tata",
+  "MH": 4343,
+  "DL": 4670,
+  "RJ": 4402,
+  "income": 12880,
+  "date": "2013",
+  "buyingType": "Buying Households",
+  "incomeType": "Household Income",
+  "manufacturers": "4 PG manufacturer"
+},{
+  "_id": {
+    "$oid": "62f201cfc9b7ca89ae8a71f5"
+  },
+  "company": "Cadbury",
+  "MH": 5343,
+  "DL": 3670,
+  "RJ": 3402,
+  "income": 90442,
+  "date": "2014",
+  "buyingType": "Buying Households",
+  "incomeType": "Household Income",
+  "manufacturers": "4 PG manufacturer"
+},{
+  "_id": {
+    "$oid": "62f201cfc9b7ca89ae8a71f6"
+  },
+  "company": "Nestle",
+  "MH": 6343,
+  "DL": 2670,
+  "RJ": 2402,
+  "income": 90875,
+  "date": "2015",
+  "buyingType": "Buying Households",
+  "incomeType": "Household Income",
+  "manufacturers": "4 PG manufacturer"
+},{
+  "_id": {
+    "$oid": "62f201cfc9b7ca89ae8a71f7"
+  },
+  "company": "Nutrella",
+  "MH": 7343,
+  "DL": 1670,
+  "RJ": 1402,
+  "income": 90905,
+  "date": "2016",
+  "buyingType": "Buying Households",
+  "incomeType": "Household Income",
+  "manufacturers": "4 PG manufacturer"
+},{
+  "_id": {
+    "$oid": "62f201cfc9b7ca89ae8a71f8"
+  },
+  "company": "Wipro",
+  "MH": 1487,
+  "DL": 3760,
+  "RJ": 8402,
+  "income": 12448,
+  "date": "2009",
+  "buyingType": "Buying Appliances",
+  "incomeType": "Household Income",
+  "manufacturers": "4 PG manufacturer"
+},{
+  "_id": {
+    "$oid": "62f201cfc9b7ca89ae8a71f9"
+  },
+  "company": "TCS",
+  "MH": 2487,
+  "DL": 4760,
+  "RJ": 8468,
+  "income": 22448,
+  "date": "2010",
+  "buyingType": "Buying Appliances",
+  "incomeType": "Household Income",
+  "manufacturers": "4 PG manufacturer"
+},{
+  "_id": {
+    "$oid": "62f201cfc9b7ca89ae8a71fa"
+  },
+  "company": "Accenture",
+  "MH": 3487,
+  "DL": 5760,
+  "RJ": 7468,
+  "income": 32448,
+  "date": "2011",
+  "buyingType": "Buying Appliances",
+  "incomeType": "Household Income",
+  "manufacturers": "4 PG manufacturer"
+},{
+  "_id": {
+    "$oid": "62f201cfc9b7ca89ae8a71fb"
+  },
+  "company": "Infosys",
+  "MH": 4487,
+  "DL": 6760,
+  "RJ": 6468,
+  "income": 42448,
+  "date": "2012",
+  "buyingType": "Buying Appliances",
+  "incomeType": "Household Income",
+  "manufacturers": "4 PG manufacturer"
+},{
+  "_id": {
+    "$oid": "62f201cfc9b7ca89ae8a71fc"
+  },
+  "company": "Tata",
+  "MH": 5487,
+  "DL": 7760,
+  "RJ": 5468,
+  "income": 52448,
+  "date": "2013",
+  "buyingType": "Buying Appliances",
+  "incomeType": "Household Income",
+  "manufacturers": "4 PG manufacturer"
+},{
+  "_id": {
+    "$oid": "62f201cfc9b7ca89ae8a71fd"
+  },
+  "company": "Cadbury",
+  "MH": 6487,
+  "DL": 8760,
+  "RJ": 4468,
+  "income": 62448,
+  "date": "2014",
+  "buyingType": "Buying Appliances",
+  "incomeType": "Household Income",
+  "manufacturers": "4 PG manufacturer"
+},{
+  "_id": {
+    "$oid": "62f201cfc9b7ca89ae8a71fe"
+  },
+  "company": "Nestle",
+  "MH": 7487,
+  "DL": 8760,
+  "RJ": 3468,
+  "income": 72448,
+  "date": "2015",
+  "buyingType": "Buying Appliances",
+  "incomeType": "Household Income",
+  "manufacturers": "4 PG manufacturer"
+},{
+  "_id": {
+    "$oid": "62f201cfc9b7ca89ae8a71ff"
+  },
+  "company": "Nutrella",
+  "MH": 8487,
+  "DL": 9760,
+  "RJ": 2468,
+  "income": 82448,
+  "date": "2016",
+  "buyingType": "Buying Appliances",
+  "incomeType": "Household Income",
+  "manufacturers": "4 PG manufacturer"
+},{
+  "_id": {
+    "$oid": "62f201cfc9b7ca89ae8a7200"
+  },
+  "company": "Wipro",
+  "MH": 1927,
+  "DL": 1594,
+  "RJ": 8004,
+  "income": 93356,
+  "date": "2009",
+  "buyingType": "Buying Households",
+  "incomeType": "Household Income",
+  "manufacturers": "2 PG manufacturer"
+},{
+  "_id": {
+    "$oid": "62f201cfc9b7ca89ae8a7201"
+  },
+  "company": "TCS",
+  "MH": 2927,
+  "DL": 2594,
+  "RJ": 7004,
+  "income": 83356,
+  "date": "2010",
+  "buyingType": "Buying Households",
+  "incomeType": "Household Income",
+  "manufacturers": "2 PG manufacturer"
+},{
+  "_id": {
+    "$oid": "62f201cfc9b7ca89ae8a7202"
+  },
+  "company": "Accenture",
+  "MH": 3927,
+  "DL": 3594,
+  "RJ": 6004,
+  "income": 73356,
+  "date": "2011",
+  "buyingType": "Buying Households",
+  "incomeType": "Household Income",
+  "manufacturers": "2 PG manufacturer"
+},{
+  "_id": {
+    "$oid": "62f201cfc9b7ca89ae8a7203"
+  },
+  "company": "Infosys",
+  "MH": 4927,
+  "DL": 4594,
+  "RJ": 5004,
+  "income": 63356,
+  "date": "2012",
+  "buyingType": "Buying Households",
+  "incomeType": "Household Income",
+  "manufacturers": "2 PG manufacturer"
+},{
+  "_id": {
+    "$oid": "62f201cfc9b7ca89ae8a7204"
+  },
+  "company": "Tata",
+  "MH": 5927,
+  "DL": 5594,
+  "RJ": 4004,
+  "income": 53356,
+  "date": "2013",
+  "buyingType": "Buying Households",
+  "incomeType": "Household Income",
+  "manufacturers": "2 PG manufacturer"
+},{
+  "_id": {
+    "$oid": "62f201cfc9b7ca89ae8a7205"
+  },
+  "company": "Cadbury",
+  "MH": 6927,
+  "DL": 6594,
+  "RJ": 3004,
+  "income": 43356,
+  "date": "2014",
+  "buyingType": "Buying Households",
+  "incomeType": "Household Income",
+  "manufacturers": "2 PG manufacturer"
+},{
+  "_id": {
+    "$oid": "62f201cfc9b7ca89ae8a7206"
+  },
+  "company": "Nestle",
+  "MH": 7927,
+  "DL": 7594,
+  "RJ": 2004,
+  "income": 33356,
+  "date": "2015",
+  "buyingType": "Buying Households",
+  "incomeType": "Household Income",
+  "manufacturers": "2 PG manufacturer"
+},{
+  "_id": {
+    "$oid": "62f201cfc9b7ca89ae8a7207"
+  },
+  "company": "Nutrella",
+  "MH": 8927,
+  "DL": 8594,
+  "RJ": 1004,
+  "income": 23356,
+  "date": "2016",
+  "buyingType": "Buying Households",
+  "incomeType": "Household Income",
+  "manufacturers": "2 PG manufacturer"
+},{
+  "_id": {
+    "$oid": "62f201cfc9b7ca89ae8a7208"
+  },
+  "company": "Wipro",
+  "MH": 1500,
+  "DL": 7030,
+  "RJ": 1880,
+  "income": 11356,
+  "date": "2009",
+  "buyingType": "Buying Households",
+  "incomeType": "Industry Income",
+  "manufacturers": "4 PG manufacturer"
+},{
+  "_id": {
+    "$oid": "62f201cfc9b7ca89ae8a7209"
+  },
+  "company": "TCS",
+  "MH": 2500,
+  "DL": 7030,
+  "RJ": 2880,
+  "income": 22356,
+  "date": "2010",
+  "buyingType": "Buying Households",
+  "incomeType": "Industry Income",
+  "manufacturers": "4 PG manufacturer"
+},{
+  "_id": {
+    "$oid": "62f201cfc9b7ca89ae8a720a"
+  },
+  "company": "Accenture",
+  "MH": 3500,
+  "DL": 6030,
+  "RJ": 3880,
+  "income": 33356,
+  "date": "2011",
+  "buyingType": "Buying Households",
+  "incomeType": "Industry Income",
+  "manufacturers": "4 PG manufacturer"
+},{
+  "_id": {
+    "$oid": "62f201cfc9b7ca89ae8a720b"
+  },
+  "company": "Infosys",
+  "MH": 4500,
+  "DL": 5030,
+  "RJ": 4880,
+  "income": 44356,
+  "date": "2012",
+  "buyingType": "Buying Households",
+  "incomeType": "Industry Income",
+  "manufacturers": "4 PG manufacturer"
+},{
+  "_id": {
+    "$oid": "62f201cfc9b7ca89ae8a720c"
+  },
+  "company": "Tata",
+  "MH": 5500,
+  "DL": 1030,
+  "RJ": 5880,
+  "income": 55356,
+  "date": "2013",
+  "buyingType": "Buying Households",
+  "incomeType": "Industry Income",
+  "manufacturers": "4 PG manufacturer"
+},{
+  "_id": {
+    "$oid": "62f201cfc9b7ca89ae8a720d"
+  },
+  "company": "Cadbury",
+  "MH": 6500,
+  "DL": 2030,
+  "RJ": 6880,
+  "income": 66356,
+  "date": "2014",
+  "buyingType": "Buying Households",
+  "incomeType": "Industry Income",
+  "manufacturers": "4 PG manufacturer"
+},{
+  "_id": {
+    "$oid": "62f201cfc9b7ca89ae8a720e"
+  },
+  "company": "Nestle",
+  "MH": 7500,
+  "DL": 3030,
+  "RJ": 7880,
+  "income": 77356,
+  "date": "2015",
+  "buyingType": "Buying Households",
+  "incomeType": "Industry Income",
+  "manufacturers": "4 PG manufacturer"
+},{
+  "_id": {
+    "$oid": "62f201cfc9b7ca89ae8a720f"
+  },
+  "company": "Nutrella",
+  "MH": 8500,
+  "DL": 4030,
+  "RJ": 8880,
+  "income": 88356,
+  "date": "2016",
+  "buyingType": "Buying Households",
+  "incomeType": "Industry Income",
+  "manufacturers": "4 PG manufacturer"
+},{
+  "_id": {
+    "$oid": "62f201cfc9b7ca89ae8a7210"
+  },
+  "company": "Wipro",
+  "MH": 4460,
+  "DL": 8880,
+  "RJ": 9910,
+  "income": 27356,
+  "date": "2009",
+  "buyingType": "Buying Households",
+  "incomeType": "Industry Income",
+  "manufacturers": "2 PG manufacturer"
+},{
+  "_id": {
+    "$oid": "62f201cfc9b7ca89ae8a7211"
+  },
+  "company": "TCS",
+  "MH": 4560,
+  "DL": 7770,
+  "RJ": 9810,
+  "income": 26356,
+  "date": "2010",
+  "buyingType": "Buying Households",
+  "incomeType": "Industry Income",
+  "manufacturers": "2 PG manufacturer"
+},{
+  "_id": {
+    "$oid": "62f201cfc9b7ca89ae8a7212"
+  },
+  "company": "Accenture",
+  "MH": 4660,
+  "DL": 6660,
+  "RJ": 9710,
+  "income": 25356,
+  "date": "2011",
+  "buyingType": "Buying Households",
+  "incomeType": "Industry Income",
+  "manufacturers": "2 PG manufacturer"
+},{
+  "_id": {
+    "$oid": "62f201cfc9b7ca89ae8a7213"
+  },
+  "company": "Infosys",
+  "MH": 4760,
+  "DL": 5550,
+  "RJ": 9610,
+  "income": 24356,
+  "date": "2012",
+  "buyingType": "Buying Households",
+  "incomeType": "Industry Income",
+  "manufacturers": "2 PG manufacturer"
+},{
+  "_id": {
+    "$oid": "62f201cfc9b7ca89ae8a7214"
+  },
+  "company": "Tata",
+  "MH": 4860,
+  "DL": 4440,
+  "RJ": 9510,
+  "income": 23356,
+  "date": "2013",
+  "buyingType": "Buying Households",
+  "incomeType": "Industry Income",
+  "manufacturers": "2 PG manufacturer"
+},{
+  "_id": {
+    "$oid": "62f201cfc9b7ca89ae8a7215"
+  },
+  "company": "Cadbury",
+  "MH": 4860,
+  "DL": 3330,
+  "RJ": 9410,
+  "income": 22356,
+  "date": "2014",
+  "buyingType": "Buying Households",
+  "incomeType": "Industry Income",
+  "manufacturers": "2 PG manufacturer"
+},{
+  "_id": {
+    "$oid": "62f201cfc9b7ca89ae8a7216"
+  },
+  "company": "Nestle",
+  "MH": 4960,
+  "DL": 2220,
+  "RJ": 9310,
+  "income": 21356,
+  "date": "2015",
+  "buyingType": "Buying Households",
+  "incomeType": "Industry Income",
+  "manufacturers": "2 PG manufacturer"
+},{
+  "_id": {
+    "$oid": "62f201cfc9b7ca89ae8a7217"
+  },
+  "company": "Nutrella",
+  "MH": 4360,
+  "DL": 1110,
+  "RJ": 9210,
+  "income": 20356,
+  "date": "2016",
+  "buyingType": "Buying Households",
+  "incomeType": "Industry Income",
+  "manufacturers": "2 PG manufacturer"
+},{
+  "_id": {
+    "$oid": "62f201cfc9b7ca89ae8a7218"
+  },
+  "company": "Wipro",
+  "MH": 6632,
+  "DL": 1910,
+  "RJ": 2009,
+  "income": 20010,
+  "date": "2009",
+  "buyingType": "Buying Appliances",
+  "incomeType": "Industry Income",
+  "manufacturers": "2 PG manufacturer"
+},{
+  "_id": {
+    "$oid": "62f201cfc9b7ca89ae8a7219"
+  },
+  "company": "TCS",
+  "MH": 6742,
+  "DL": 1810,
+  "RJ": 3008,
+  "income": 20090,
+  "date": "2010",
+  "buyingType": "Buying Appliances",
+  "incomeType": "Industry Income",
+  "manufacturers": "2 PG manufacturer"
+},{
+  "_id": {
+    "$oid": "62f201cfc9b7ca89ae8a721a"
+  },
+  "company": "Accenture",
+  "MH": 6842,
+  "DL": 1710,
+  "RJ": 4007,
+  "income": 20080,
+  "date": "2011",
+  "buyingType": "Buying Appliances",
+  "incomeType": "Industry Income",
+  "manufacturers": "2 PG manufacturer"
+},{
+  "_id": {
+    "$oid": "62f201cfc9b7ca89ae8a721b"
+  },
+  "company": "Infosys",
+  "MH": 6952,
+  "DL": 1610,
+  "RJ": 5006,
+  "income": 20070,
+  "date": "2012",
+  "buyingType": "Buying Appliances",
+  "incomeType": "Industry Income",
+  "manufacturers": "2 PG manufacturer"
+},{
+  "_id": {
+    "$oid": "62f201cfc9b7ca89ae8a721c"
+  },
+  "company": "Tata",
+  "MH": 6522,
+  "DL": 1510,
+  "RJ": 6005,
+  "income": 20060,
+  "date": "2013",
+  "buyingType": "Buying Appliances",
+  "incomeType": "Industry Income",
+  "manufacturers": "2 PG manufacturer"
+},{
+  "_id": {
+    "$oid": "62f201cfc9b7ca89ae8a721d"
+  },
+  "company": "Cadbury",
+  "MH": 6412,
+  "DL": 1410,
+  "RJ": 7004,
+  "income": 20050,
+  "date": "2014",
+  "buyingType": "Buying Appliances",
+  "incomeType": "Industry Income",
+  "manufacturers": "2 PG manufacturer"
+},{
+  "_id": {
+    "$oid": "62f201cfc9b7ca89ae8a721e"
+  },
+  "company": "Nestle",
+  "MH": 6302,
+  "DL": 1310,
+  "RJ": 8003,
+  "income": 20040,
+  "date": "2015",
+  "buyingType": "Buying Appliances",
+  "incomeType": "Industry Income",
+  "manufacturers": "2 PG manufacturer"
+},{
+  "_id": {
+    "$oid": "62f201cfc9b7ca89ae8a721f"
+  },
+  "company": "Nutrella",
+  "MH": 6612,
+  "DL": 1210,
+  "RJ": 9002,
+  "income": 20056,
+  "date": "2016",
+  "buyingType": "Buying Appliances",
+  "incomeType": "Industry Income",
+  "manufacturers": "2 PG manufacturer"
+},{
+  "_id": {
+    "$oid": "62f201cfc9b7ca89ae8a7220"
+  },
+  "company": "Wipro",
+  "MH": 6009,
+  "DL": 1070,
+  "RJ": 8542,
+  "income": 28010,
+  "date": "2009",
+  "buyingType": "Buying Appliances",
+  "incomeType": "Industry Income",
+  "manufacturers": "4 PG manufacturer"
+},{
+  "_id": {
+    "$oid": "62f201cfc9b7ca89ae8a7221"
+  },
+  "company": "TCS",
+  "MH": 6008,
+  "DL": 2070,
+  "RJ": 7542,
+  "income": 27090,
+  "date": "2010",
+  "buyingType": "Buying Appliances",
+  "incomeType": "Industry Income",
+  "manufacturers": "4 PG manufacturer"
+},{
+  "_id": {
+    "$oid": "62f201cfc9b7ca89ae8a7222"
+  },
+  "company": "Accenture",
+  "MH": 6007,
+  "DL": 3070,
+  "RJ": 2442,
+  "income": 26080,
+  "date": "2011",
+  "buyingType": "Buying Appliances",
+  "incomeType": "Industry Income",
+  "manufacturers": "4 PG manufacturer"
+},{
+  "_id": {
+    "$oid": "62f201cfc9b7ca89ae8a7223"
+  },
+  "company": "Infosys",
+  "MH": 6006,
+  "DL": 4070,
+  "RJ": 3742,
+  "income": 25070,
+  "date": "2012",
+  "buyingType": "Buying Appliances",
+  "incomeType": "Industry Income",
+  "manufacturers": "4 PG manufacturer"
+},{
+  "_id": {
+    "$oid": "62f201cfc9b7ca89ae8a7224"
+  },
+  "company": "Tata",
+  "MH": 6005,
+  "DL": 5070,
+  "RJ": 3842,
+  "income": 24060,
+  "date": "2013",
+  "buyingType": "Buying Appliances",
+  "incomeType": "Industry Income",
+  "manufacturers": "4 PG manufacturer"
+},{
+  "_id": {
+    "$oid": "62f201cfc9b7ca89ae8a7225"
+  },
+  "company": "Cadbury",
+  "MH": 6004,
+  "DL": 6070,
+  "RJ": 5542,
+  "income": 23050,
+  "date": "2014",
+  "buyingType": "Buying Appliances",
+  "incomeType": "Industry Income",
+  "manufacturers": "4 PG manufacturer"
+},{
+  "_id": {
+    "$oid": "62f201cfc9b7ca89ae8a7226"
+  },
+  "company": "Nestle",
+  "MH": 6003,
+  "DL": 7070,
+  "RJ": 3542,
+  "income": 22040,
+  "date": "2015",
+  "buyingType": "Buying Appliances",
+  "incomeType": "Industry Income",
+  "manufacturers": "4 PG manufacturer"
+},{
+  "_id": {
+    "$oid": "62f201cfc9b7ca89ae8a7227"
+  },
+  "company": "Nutrella",
+  "MH": 6002,
+  "DL": 8070,
+  "RJ": 1542,
+  "income": 21056,
+  "date": "2016",
+  "buyingType": "Buying Appliances",
+  "incomeType": "Industry Income",
+  "manufacturers": "4 PG manufacturer"
+},{
+  "_id": {
+    "$oid": "62f201cfc9b7ca89ae8a7228"
+  },
+  "company": "Wipro",
+  "MH": 7543,
+  "DL": 3334,
+  "RJ": 5434,
+  "income": 20031,
+  "date": "2009",
+  "buyingType": "Buying Appliances",
+  "incomeType": "Household Income",
+  "manufacturers": "2 PG manufacturer"
+},{
+  "_id": {
+    "$oid": "62f201cfc9b7ca89ae8a7229"
+  },
+  "company": "TCS",
+  "MH": 4543,
+  "DL": 424,
+  "RJ": 6321,
+  "income": 10448,
+  "date": "2010",
+  "buyingType": "Buying Appliances",
+  "incomeType": "Household Income",
+  "manufacturers": "2 PG manufacturer"
+},{
+  "_id": {
+    "$oid": "62f201cfc9b7ca89ae8a722a"
+  },
+  "company": "Accenture",
+  "MH": 2243,
+  "DL": 3874,
+  "RJ": 2534,
+  "income": 129908,
+  "date": "2011",
+  "buyingType": "Buying Appliances",
+  "incomeType": "Household Income",
+  "manufacturers": "2 PG manufacturer"
+},{
+  "_id": {
+    "$oid": "62f201cfc9b7ca89ae8a722b"
+  },
+  "company": "Infosys",
+  "MH": 2343,
+  "DL": 5534,
+  "RJ": 5834,
+  "income": 3332,
+  "date": "2012",
+  "buyingType": "Buying Appliances",
+  "incomeType": "Household Income",
+  "manufacturers": "2 PG manufacturer"
+},{
+  "_id": {
+    "$oid": "62f201cfc9b7ca89ae8a722c"
+  },
+  "company": "Tata",
+  "MH": 5540,
+  "DL": 5324,
+  "RJ": 4321,
+  "income": 1235,
+  "date": "2013",
+  "buyingType": "Buying Appliances",
+  "incomeType": "Household Income",
+  "manufacturers": "2 PG manufacturer"
+},{
+  "_id": {
+    "$oid": "62f201cfc9b7ca89ae8a722d"
+  },
+  "company": "Cadbury",
+  "MH": 1214,
+  "DL": 6221,
+  "RJ": 3987,
+  "income": 31442,
+  "date": "2014",
+  "buyingType": "Buying Appliances",
+  "incomeType": "Household Income",
+  "manufacturers": "2 PG manufacturer"
+},{
+  "_id": {
+    "$oid": "62f201cfc9b7ca89ae8a722e"
+  },
+  "company": "Nestle",
+  "MH": 8679,
+  "DL": 1144,
+  "RJ": 9045,
+  "income": 907975,
+  "date": "2015",
+  "buyingType": "Buying Appliances",
+  "incomeType": "Household Income",
+  "manufacturers": "2 PG manufacturer"
+},{
+  "_id": {
+    "$oid": "62f201cfc9b7ca89ae8a722f"
+  },
+  "company": "Nutrella",
+  "MH": 3813,
+  "DL": 2960,
+  "RJ": 4530,
+  "income": 41322,
+  "date": "2016",
+  "buyingType": "Buying Appliances",
+  "incomeType": "Household Income",
+  "manufacturers": "2 PG manufacturer"
+}]

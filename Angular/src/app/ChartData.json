@@ -1,0 +1,93 @@
+[
+    {
+      "company": "Wipro",
+      "MH": 1343,
+      "DL": 4534,
+      "RJ": 4534,
+      "income": 123456,
+      "date": "2009",
+      "buyingType": "Buying Households",
+      "incomeType":"Household Income",
+      "manufacturers": "4 PG manufacturer"
+    },
+    {
+      "company": "TCS",
+      "MH": 3543,
+      "DL": 1424,
+      "RJ": 6321,
+      "income": 1244,
+      "date": "2009",
+      "buyingType": "Buying Appliances",
+      "incomeType":"Household Income",
+      "manufacturers": "4 PG manufacturer"
+    },
+    {
+      "company": "Wipro",
+      "MH": 1343,
+      "DL": 4534,
+      "RJ": 4534,
+      "income": 127908,
+      "date": "2009",
+      "buyingType": "Buying Households",
+      "incomeType":"Household Income",
+      "manufacturers": "2 PG manufacturer"
+    },
+    {
+      "company": "TCS",
+      "MH": 1343,
+      "DL": 4534,
+      "RJ": 4534,
+      "income": 332,
+      "date": "2009",
+      "buyingType": "Buying Households",
+      "incomeType":"Household Income",
+      "manufacturers": "2 PG manufacturer"
+    },
+    {
+      "company": "TCS",
+      "MH": 3543,
+      "DL": 1424,
+      "RJ": 6321,
+      "income": 1235,
+      "date": "2009",
+      "buyingType": "Buying Households",
+      "incomeType":"Household Income",
+      "manufacturers": "4 PG manufacturer"
+    },
+    {
+      "company": "Wipro",
+      "MH": 1234,
+      "DL": 4321,
+      "RJ": 9887,
+      "income": 21442,
+      "date": "2009",
+      "buyingType": "Buying Appliances",
+      "incomeType":"Household Income",
+      "manufacturers": "4 PG manufacturer"
+    },
+    {
+      "company": "Unilever",
+      "MH": 7979,
+      "DL": 1234,
+      "RJ": 5645,
+      "income": 908975,
+      "date": "2011",
+      "buyingType": "Buying Households",
+      "incomeType":"Industry Income",
+      "manufacturers": "2 PG manufacturer"
+    },
+    {
+     "company": "Unilever",
+     "MH": 3543,
+     "DL": 2566,
+     "RJ": 7532,
+     "income": 241322,
+      "date": "2012",
+      "buyingType": "Buying Appliances",
+      "incomeType":"Commercial Income",
+      "manufacturers": "4 PG manufacturer"
+    }
+    
+]
+
+  

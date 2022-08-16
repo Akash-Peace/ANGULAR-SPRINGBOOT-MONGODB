@@ -1,0 +1,67 @@
+<div class="container">
+  <div class="row mt-4">
+    <div class="header-div">
+    <div class="col my-auto header">
+      <h2>{{header}}</h2>
+    </div>
+
+    <div class="col" id="actionBtn"> <!--*ngIf="getScreenWidth > 800">-->
+      <div class="insightBtn"  *ngIf="getScreenWidth < 800">
+        <button class="btn btn-outline-secondary">Insights</button>
+      </div>
+      <div>
+        <i class="bi bi-download"></i>
+      </div>
+      <div class="breaker">|</div>
+      <!-- <div class="listContainer"> -->
+      <ul class="listIcons">
+        <li><span>Read Only</span></li>
+        <li><i class="bi bi-save"></i></li>
+        <li><i class="bi bi-three-dots-vertical"></i></li>
+      </ul>
+      <!-- </div> -->
+    </div>
+  </div>
+    <!-- Filteration goes here -->
+    <div class="filterContainer">
+      <p>
+        Analyze
+        <select [(ngModel)]="selectedIncome" (change)="onChange()">
+          <option
+            *ngFor="let selectedIncome of income"
+            [ngValue]="selectedIncome"
+          >
+            {{ selectedIncome }}
+          </option>
+        </select>
+
+        by
+        <select [(ngModel)]="selectedPurchased" (change)="onChange()">
+          <option
+            *ngFor="let selectedPurchased of purchasedItems"
+            [ngValue]="selectedPurchased"
+          >
+            {{ selectedPurchased }}
+          </option>
+        </select>
+        for
+        <select [(ngModel)]="selectedManufacturer" (change)="onChange()">
+          <option
+            *ngFor="let selectedManufacturer of Manufacturers"
+            [ngValue]="selectedManufacturer"
+          >
+            {{ selectedManufacturer }}
+          </option>
+        </select>
+
+        purchased at Total Outlets in Total U.S. between 07/11/2020, 03/28/2020 vs 11/02/2019, 07/20/2019
+      </p>
+      <div class="insightBtn"  *ngIf="getScreenWidth > 800">
+        <button class="btn btn-outline-secondary">Insights</button>
+      </div>
+    </div>
+  </div>
+
+
+  
+</div>
